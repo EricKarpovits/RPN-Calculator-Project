@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1603163308 source:c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\main.cpp
+	"declarations.h"
+
+1603072914 c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\stack.h
+
+1603163717 source:c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\stack.cpp
+	"declarations.h"
+
+1603073259 source:c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\calculator.cpp
+	"declarations.h"
+
+1603072726 c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\calculator.h
+	"linkedList.h"
+
+1603163308 c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\declarations.h
+	<iostream>
+	<math.h>
+	<iomanip>
+	<string.h>
+	<windows.h>
+	"operations.h"
+	"stack.h"
+	"consoleColor.h"
+
+1603072914 c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\linkedlist.h
+
+1603057712 c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\application.h
+	"calculator.h"
+	"linkedList.h"
+	"string.h"
+
+1603073259 source:c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\linkedlist.cpp
+	"declarations.h"
+
+1603050565 source:c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\application.cpp
+	"declarations.h"
+
+1603163308 source:c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\userinterface.cpp
+	"declarations.h"
+
+1603074158 c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\operations.h
+	"stack.h"
+
+1603158411 source:c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\operations.cpp
+	"declarations.h"
+
+1603123656 c:\users\eric\documents\github\rpn-assignment-classes-stacks-linked-lists-erickarpovits\karpovits_rpn_calculator\consolecolor.h
+
