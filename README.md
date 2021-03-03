@@ -1,4 +1,4 @@
-# RPN Calculator Project - Eric Karpovits
+# RPN Calculator Project - [Eric Karpovits](https://github.com/EricKarpovits)
 
 <p align="center">
   <a href="https://github.com/EricKarpovits/">
